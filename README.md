@@ -19,19 +19,6 @@
 - Redux
 - Tailwind Css
 
-### Ajustes e melhorias
-
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
-
-- [X] Hospedar o site
-- [ ] Adicionar uma api de cep
-- [ ] Adicionar um simulador de frete
-- [ ] Conectar a um banco de dados
-- [ ] Passar os dados dos sapatos para o banco de dados
-- [ ] Criar uma api
-- [ ] Adicionar função de Login e Criar conta
-- [ ] Adicionar função de cupons
-
 <!-- ## Aprendizados
 
 <!-- Com este projeto aprendi a criar uma site para uma academia. Tive algumas dificuldades para criar o cabeçalho e o menu, mas depois de algumas revisadas nas documentações consegui criar e aperfeiçoar o projeto. 📚
