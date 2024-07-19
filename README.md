@@ -4,11 +4,12 @@ O site proporciona uma experiência de compra online quase completa, onde os cli
 
 ### Fotos do Site:
 
-<img src="assets/readme/img%20(1).jpeg" style="width: 600px" />
+<img src="public/assets/image%20(1).png" style="width: 600px" />
 <div align="start">
-  <img src="assets/readme/img%20(2).jpeg" style="width: 200px" />
-  <img src="assets/readme/img%20(3).jpeg" style="width: 200px" />
-  <img src="assets/readme/img%20(4).jpeg" style="width: 200px" />
+  <img src="public/assets/image%20(2).png" style="width: 600px" />
+  <img src="public/assets/image%20(3).png" style="width: 600px" />
+  <img src="public/assets/image%20(4).png" style="width: 200px" />
+  <img src="public/assets/image%20(5).png" style="width: 200px" />
 </div>
 
 ### Funcionalidades:
